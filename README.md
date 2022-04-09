@@ -1,10 +1,5 @@
 # Content Master
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)   <img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="made with python"> <a href='https://github.com/gdsoumya' target='_blank'><img src='https://img.shields.io/github/followers/gdsoumya.svg?label=Folow&style=social'></a><a href="https://twitter.com/intent/tweet?text=Check+out+this+awesome+Github+Repo+for+a+Content Aggregator, it collects content from different websites and organizes everything in one place.&url=https%3A%2F%2Fgithub.com%2Fgdsoumya%2Fcontent_master&hashtags=twitter%2Ccontent_aggregator%2Cgithub&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
-  <img src="http://jpillora.com/github-twitter-button/img/tweet.png"
-       alt="tweet button" title="Check out this awesome Github Repo for a Twitter Bot, it can auto tweet posts using RSS Feed links."></img>
-</a>
-
 Content Master is a content aggregator that collects content from different sources, organizes them and puts them in one place for consumption.
 
 ## Getting Started
